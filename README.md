@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Sha Naziya 👋
 
-<!--
-**shazali1453/shazali1453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+💻 Aspiring Software Developer  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
+I am a passionate fresher interested in building web applications and improving my software development skills. I enjoy creating practical projects and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### SmartNearby - Local Services Discovery and Booking System
+
+SmartNearby is a web-based platform that helps users discover nearby local services and book them easily.
+
+**Features:**
+- 📍 Location-based service discovery
+- 🔎 Search nearby services
+- 📅 Service booking system
+- 📞 Call and WhatsApp enquiry options
+- ⭐ Review and feedback system
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Leaflet Maps
+
+🔗 Project:
+https://github.com/shazali1453/smartnearby
+
+## 🛠️ Skills
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- MongoDB Compass
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/shazali1453
