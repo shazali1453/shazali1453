@@ -24,11 +24,13 @@ SmartNearby is a web-based platform that helps users discover nearby local servi
 - CSS
 - JavaScript
 - Tailwind CSS
-- Node.js
-- Express.js
+- Node.js (basic)
+- Express.js (basic)
 - MongoDB
 - Mongoose
 - Leaflet Maps
+- Git
+- Github
 
 🔗 Project:
 https://github.com/shazali1453/smartnearby
