@@ -56,5 +56,6 @@ https://github.com/shazali1453/smartnearby
 - MongoDB Compass
 
 ## 📫 Connect With Me
+- Email: shanaziya099@gmail.com
 
 GitHub: https://github.com/shazali1453
